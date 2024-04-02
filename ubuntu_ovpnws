@@ -1127,7 +1127,7 @@ echo "Made with love by: tknetwork Developer... " >> /root/.web/index.php
 install_done()
 {
   clear
-  echo "OPENVPN SERVER"
+  echo "OPENVPN SERVER BY ILYASS"
   echo "IP : $(curl -s https://api.ipify.org)"
   echo "OPENVPN TCP port : 1194"
   echo "OPENVPN UDP port : 53"
