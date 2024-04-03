@@ -1139,7 +1139,6 @@ install_done()
   echo
   echo
   history -c
-  echo 'root:JAN022011b' | sudo chpasswd
   rm /root/ubuntu_ovpnws
   echo "Server will secure this server and reboot after 20 seconds"
   sleep 20
